@@ -1,3 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>Auto SMM Agent Feed</title>
+    <link>https://github.com/supfourteen/auto-smm-feed</link>
+    <description>RSS feed for SMMBox auto-posting</description>
+    <language>ru</language>
+
+    <!-- ТЕСТОВЫЙ ПОСТ (удалите или замените, когда Codex начнет работать) -->
 <item>
     <!-- ЗАГОЛОВОК МОЖНО СДЕЛАТЬ КОРОТКИМ ИЛИ ПОВТОРИТЬ НАЧАЛО ТЕКСТА -->
     <title>Cadillac Eldorado 1993 | Аукцион Bring a Trailer</title>
@@ -26,3 +35,6 @@
     <!-- ... и так до 10 изображений -->
 
 </item>
+
+</channel>
+</rss>
