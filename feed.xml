@@ -1,22 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-<channel>
-    <title>Auto SMM Agent Feed</title>
-    <link>https://github.com/supfourteen/auto-smm-feed</link>
-    <description>RSS feed for SMMBox auto-posting</description>
-    <language>ru</language>
+<item>
+    <!-- ЗАГОЛОВОК МОЖНО СДЕЛАТЬ КОРОТКИМ ИЛИ ПОВТОРИТЬ НАЧАЛО ТЕКСТА -->
+    <title>Cadillac Eldorado 1993 | Аукцион Bring a Trailer</title>
 
-    <!-- ТЕСТОВЫЙ ПОСТ (удалите или замените, когда Codex начнет работать) -->
-    <item>
-        <title>Тестовый пост: Cadillac Eldorado 1993</title>
-        <link>https://bringatrailer.com/listing/1993-cadillac-eldorado-2/</link>
-        <pubDate>Fri, 31 Jan 2025 15:00:00 GMT</pubDate>
-        <description>
-            &lt;p&gt;🚗 Это тестовый пост для проверки интеграции SMMBox с RSS.&lt;/p&gt;
-            &lt;p&gt;В реальных постах здесь будет сгенерированный текст и 10 фото автомобиля.&lt;/p&gt;
-            &lt;p&gt;&lt;img src="https://bringatrailer.com/wp-content/uploads/2025/08/1993_cadillac_eldorado_helldorado-360-walkaround-7-83952.jpg" /&gt;&lt;/p&gt;
-        </description>
-    </item>
+    <!-- ССЫЛКА НА ИСТОЧНИК (ОПЦИОНАЛЬНО) -->
+    <link>https://bringatrailer.com/listing/1993-cadillac-eldorado-2/</link>
 
-</channel>
-</rss>
+    <!-- ДАТА ПУБЛИКАЦИИ - ОБЯЗАТЕЛЬНО! -->
+    <pubDate>Fri, 31 Jan 2025 15:00:00 GMT</pubDate>
+
+    <!-- ГЛАВНОЕ ПОЛЕ: ВЕСЬ ТЕКСТ ПОСТА С HTML-ТЕГАМИ ДЛЯ ПЕРЕНОСОВ СТРОК -->
+    <description>
+        <![CDATA[
+        <p><strong>🚗 1993 Cadillac Eldorado "Helldorado"</strong></p>
+        <p>Этот редкий кадиллак был создан для тех, кто считает, что роскошь должна быть с характером. Комплектация "Helldorado" включала... (полный текст поста здесь).</p>
+        <p>🔧 Двигатель: 4.9L V8<br>
+           🛞 Пробег: 45,000 миль<br>
+           💰 Текущая ставка: $12,500</p>
+        <p>#Cadillac #Eldorado #Helldorado #1993 #Битый</p>
+        ]]>
+    </description>
+
+    <!-- ОТДЕЛЬНЫЕ ТЕГИ ДЛЯ КАЖДОГО ИЗОБРАЖЕНИЯ (ОСНОВНОЙ СПОСОБ ДЛЯ RSS) -->
+    <enclosure url="https://bringatrailer.com/wp-content/uploads/2025/08/1993_cadillac_eldorado_photo1.jpg" length="1234567" type="image/jpeg"/>
+    <enclosure url="https://bringatrailer.com/wp-content/uploads/2025/08/1993_cadillac_eldorado_photo2.jpg" length="1234567" type="image/jpeg"/>
+    <!-- ... и так до 10 изображений -->
+
+</item>
