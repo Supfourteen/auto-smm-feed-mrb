@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0">
 <channel>
-    <title>Auto SMM Agent Feed</title>
+    <item><title>Chris Bumstead’s LS376-Powered 1969 Chevrolet Camaro Coupe 5-Speed</title><link>https://bringatrailer.com/listing/1969-chevrolet-camaro-553/</link><guid>7aa6d775-v1-1769962205.71625</guid><pubDate>Sun, 01 Feb 2026 16:10:06 GMT</pubDate><description>Как может выглядеть идеальный Chevrolet Camaro? Ответ прост: этот 1969 года с мощным 6,2-литровым V8 LS376 под капотом, который обещает не только динамику, но и настоящий звук мотора. Этот красавец был собран с любовью, и его пробег всего 3,500 миль после постройки. С белыми полосами на кузове, окрашенным в элегантный Tuxedo Black, он притягивает взгляды своим агрессивным стилем. Система трансмиссии Tremec TKO600 с пятью скоростями обеспечивает отличное управление, а высококачественные тормоза Wilwood и подвеска с регулируемыми амортизаторами делают поездку по-настоящему незабываемой. Интерьер с акцентами из ткани houndstooth и современными цифровыми приборами создаёт атмосферу, достойную лучших автогонок. Цена — 75,500 долларов.&lt;br/&gt;&lt;img src="https://bringatrailer.com/wp-content/uploads/2025/12/1969_chevrolet_camaro-ss_69Camaro-additional-3-64142.jpg" /&gt;&lt;br/&gt;&lt;img src="https://bringatrailer.com/wp-content/uploads/2025/12/1969_chevrolet_camaro-ss_69camaro-068-02225.jpg" /&gt;&lt;br/&gt;&lt;img src="https://bringatrailer.com/wp-content/uploads/2025/12/1969_chevrolet_camaro-ss_69camaro-096-02201.jpg" /&gt;&lt;br/&gt;&lt;img src="https://bringatrailer.com/wp-content/uploads/2025/12/1969_chevrolet_camaro-ss_69Camaro-110-63928.jpg" /&gt;&lt;br/&gt;&lt;img src="https://bringatrailer.com/wp-content/uploads/2025/12/1969_chevrolet_camaro-ss_69Camaro-147-64003.jpg" /&gt;&lt;br/&gt;&lt;img src="https://bringatrailer.com/wp-content/uploads/2025/12/1969_chevrolet_camaro-ss_69Camaro-152-64014.jpg" /&gt;&lt;br/&gt;&lt;img src="https://bringatrailer.com/wp-content/uploads/2025/12/1969_chevrolet_camaro-ss_69Camaro-019-63744.jpg" /&gt;&lt;br/&gt;&lt;img src="https://bringatrailer.com/wp-content/uploads/2025/12/1969_chevrolet_camaro-ss_img_8259-52493.jpg" /&gt;&lt;br/&gt;&lt;img src="https://bringatrailer.com/wp-content/uploads/2025/12/1969_chevrolet_camaro-ss_69Camaro-113-63934.jpg" /&gt;&lt;br/&gt;&lt;img src="https://bringatrailer.com/wp-content/uploads/2025/12/1969_chevrolet_camaro-ss_69Camaro-112-63932.jpg" /&gt;</description></item><title>Auto SMM Agent Feed</title>
     <link>https://github.com/supfourteen/auto-smm-feed</link>
     <description>RSS feed for SMMBox auto-posting</description>
     <language>ru</language>
@@ -14,36 +14,36 @@
         <guid isPermaLink="false">cadillac-eldorado-helldorado-20260131</guid>
         <pubDate>Sat, 31 Jan 2026 16:15:00 GMT</pubDate>
         
-        <description><![CDATA[
+        <description>
 🚗 1993 Cadillac Eldorado "Helldorado"
 Редкий экземпляр с эксклюзивным пакетом Helldorado. Всего произведено 500 единиц.
 #Cadillac #Eldorado #Helldorado #1993 #Редкость
-        ]]></description>
+        </description>
         
-        <!-- ФОТО ИМЕННО ИЗ ТОЙ СТАТЬИ -->
-        <!-- Убираем параметры ?fit=... и оставляем чистую ссылку -->
-        <media:content url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-1-91141-scaled.jpg" medium="image" type="image/jpeg">
-            <media:title>Cadillac Eldorado Helldorado - вид спереди</media:title>
-        </media:content>
         
-        <!-- Если есть другие фото из той же статьи, добавляем их -->
-        <media:content url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-2-91142-scaled.jpg" medium="image" type="image/jpeg">
-            <media:title>Cadillac Eldorado Helldorado - вид сбоку</media:title>
-        </media:content>
         
-        <media:content url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-3-91143-scaled.jpg" medium="image" type="image/jpeg">
-            <media:title>Cadillac Eldorado Helldorado - интерьер</media:title>
-        </media:content>
+        <ns0:content url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-1-91141-scaled.jpg" medium="image" type="image/jpeg">
+            <ns0:title>Cadillac Eldorado Helldorado - вид спереди</ns0:title>
+        </ns0:content>
         
-        <media:content url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-4-91144-scaled.jpg" medium="image" type="image/jpeg">
-            <media:title>Cadillac Eldorado Helldorado - двигатель</media:title>
-        </media:content>
         
-        <!-- Для SMMBox -->
-        <enclosure url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-1-91141-scaled.jpg" length="850000" type="image/jpeg"/>
-        <enclosure url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-2-91142-scaled.jpg" length="820000" type="image/jpeg"/>
-        <enclosure url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-3-91143-scaled.jpg" length="780000" type="image/jpeg"/>
-        <enclosure url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-4-91144-scaled.jpg" length="760000" type="image/jpeg"/>
+        <ns0:content url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-2-91142-scaled.jpg" medium="image" type="image/jpeg">
+            <ns0:title>Cadillac Eldorado Helldorado - вид сбоку</ns0:title>
+        </ns0:content>
+        
+        <ns0:content url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-3-91143-scaled.jpg" medium="image" type="image/jpeg">
+            <ns0:title>Cadillac Eldorado Helldorado - интерьер</ns0:title>
+        </ns0:content>
+        
+        <ns0:content url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-4-91144-scaled.jpg" medium="image" type="image/jpeg">
+            <ns0:title>Cadillac Eldorado Helldorado - двигатель</ns0:title>
+        </ns0:content>
+        
+        
+        <enclosure url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-1-91141-scaled.jpg" length="850000" type="image/jpeg" />
+        <enclosure url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-2-91142-scaled.jpg" length="820000" type="image/jpeg" />
+        <enclosure url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-3-91143-scaled.jpg" length="780000" type="image/jpeg" />
+        <enclosure url="https://bringatrailer.com/wp-content/uploads/2025/08/Helldorado-4-91144-scaled.jpg" length="760000" type="image/jpeg" />
         
     </item>
 </channel>
